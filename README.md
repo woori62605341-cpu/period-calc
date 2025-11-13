@@ -1,2 +1,2 @@
 
-https://period-calc.vercel.app/
+https://period-calc-ver2.vercel.app/
